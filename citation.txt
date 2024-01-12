@@ -1,0 +1,9 @@
+@inproceedings{REPO151,
+    author = "Ji, Jiahao and Wang, Jingyuan and Huang, Chao and Wu, Junjie and Xu, Boren and Wu, Zhenhe and Zhang, Junbo and Zheng, Yu",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "4",
+    pages = "4356--4364",
+    title = "{Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction}",
+    volume = "37",
+    year = "2023"
+}
